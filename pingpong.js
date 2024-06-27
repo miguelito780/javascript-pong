@@ -1,3 +1,7 @@
+//aqui vou criar a bolinha
+let xBolinha = 300;
+let yBolinha = 200;
+let tamBolinha
 function setup(){
     //aqui vou criar minha "mesa"
     createCanvas(600,400);
