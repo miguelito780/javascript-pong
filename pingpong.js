@@ -4,6 +4,7 @@ funcion setup(){
 }
 
 funcion draw(){
-    //aqui vou por a cor da mesa"mesa"
-    backgraund(255,255,255);
+    //aqui vou por a cor da "mesa"  
+    //a cor da mesa é rgb
+    backgraund(173,216,230);
 }
